@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Vijaykumar Damaragidda  👋
+*Python Full-Stack Developer* — Django • React • SQL • REST APIs  • Html,CSS,javaScript
 
-<!--
-**Vijaykumardamaragidda/Vijaykumardamaragidda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    🔭 Current project: *ToDO APP* (Auth + Django + MySQL),Cancer Death Cases Forecasting Using   Supervised machine learning
+    🌱 Learning:  Manual Testing
+    🌐 Portfolio/LinkedIn:  https://www.linkedin.com/Vijaykumar Damaragidda   • 📫 vijaykumardamaragidda@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech
+Python, REST API, Django, React, JavaScript, HTML/CSS, MySQL, 
+
+Projects (Pinned below)
+1. ToDO App – Auth, search
+2. Cancer Death Cases Forecasting Using Supervised Machine Learning
+
+
+
